@@ -50,6 +50,8 @@
     - pok2
     - pok3
   - type: Appearance
+  - type: StaticPrice
+    price: 150
 
 - type: entity
   id: ChocolatePockyPack
